@@ -1,12 +1,12 @@
-<!-- Banner de introducción -->
+<!-- Banner de introducción (violeta con efecto waves) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&color=6a0dad&height=200&section=header&text=Welcome%20to%20my%20GitHub%20Profile!&fontSize=40&fontAlign=50&fontAlignY=50&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waves&color=6a0dad&height=200&section=header&text=Welcome%20to%20my%20GitHub%20Profile!&fontSize=40&fontAlign=50&fontAlignY=50&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 ---
 
 ## About Me
-- 📍 Location: Spain 
+- 📍 Location: Spain  
 - 💼 Industry Experience: 1+ years  
 - 🎓 Education: BSc in Biology, MSc in Omics Data Analysis and Systems Biology  
 
@@ -27,19 +27,19 @@
 
 ---
 
-<!-- Contacto pequeño y centrado -->
+<!-- Contacto usando badges estilo for-the-badge -->
 <p align="center">
   <a href="mailto:tuemail@example.com">
-    <img src="https://img.shields.io/badge/-D14836?style=flat&logo=gmail&logoColor=white&label=%20" height="24" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://www.linkedin.com/in/luistorresares" target="_blank">
-    <img src="https://img.shields.io/badge/-0077B5?style=flat&logo=linkedin&logoColor=white&label=%20" height="24" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
-<!-- Visitas (sin título) -->
+<!-- Visitas (morado) -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Luis7orres&style=flat-square&color=6a0dad" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Luis7orres&style=flat-square&color=6a0dad&label=Profile%20Views" alt="Profile Views" />
 </p>
 
