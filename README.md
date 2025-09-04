@@ -9,7 +9,7 @@
 - 🎓 Education: BSc in Biology, MSc in Omics Data Analysis and Systems Biology  
 
 ---
-
+## Skillset
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
