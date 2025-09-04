@@ -2,8 +2,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=200&section=header&text=Hi!%20I'm%20Luis&fontSize=28&animation=fadeIn&fontAlignY=35&fontColor=ffffff" />
 </p>
-
-
 ---
 
 ## About Me
