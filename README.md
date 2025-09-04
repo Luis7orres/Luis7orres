@@ -1,6 +1,6 @@
 <!-- Banner de introducción (violeta con efecto waves) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&color=6a0dad&height=200&section=header&text=Welcome%20to%20my%20GitHub%20Profile!&fontSize=40&fontAlign=50&fontAlignY=50&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&color=6a0dad&height=200&section=header&text=Hello!%20👋%20I'm%Luis%20Torres&fontSize=40&fontAlign=50&fontAlignY=50&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 ## About Me
@@ -24,7 +24,7 @@
 ---
 ### Contact me at:
 <p align="center">
-  <a href="mailto:tuemail@example.com">
+  <a href="mailto:ltabi7700@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
