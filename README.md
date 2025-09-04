@@ -3,6 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waves&color=6a0dad&height=200&section=header&text=Welcome%20to%20my%20GitHub%20Profile!&fontSize=40&fontAlign=50&fontAlignY=50&fontColor=ffffff&animation=fadeIn" />
 </p>
 
+
 ---
 
 ## About Me
