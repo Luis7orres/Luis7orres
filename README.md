@@ -9,7 +9,7 @@
 - 🎓 Education: BSc in Biology, MSc in Omics Data Analysis and Systems Biology  
 
 ---
-## Toolset
+### Toolset
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
@@ -22,7 +22,7 @@
 </p>
 
 ---
-## Contact me at:
+### Contact me at:
 <p align="center">
   <a href="mailto:tuemail@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
