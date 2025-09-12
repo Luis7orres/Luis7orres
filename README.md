@@ -3,12 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=008b8b&height=300&section=header&text=Hi%20there!%20I'm%20Luis%20Torres&fontSize=50&fontAlign=50&fontAlignY=40&fontColor=ffffff&animation=fadeIn&desc=Bioinformatics%20Analyst%20%7C%20Biologist%20%7C%20Pipeline%20Developer&descSize=20&descAlign=50&descAlignY=65" />
 </p>
 
-<!-- Stats en tiempo real con tema personalizado -->
-<div align="center">  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luis7orres&show_icons=true&theme=radical&include_all_commits=true&count_private=true&title_color=008b8b&icon_color=008b8b&text_color=ffffff&bg_color=0d1117&border_color=008b8b"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis7orres&layout=compact&langs_count=8&theme=radical&title_color=008b8b&text_color=ffffff&bg_color=0d1117&border_color=008b8b"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Luis7orres&theme=radical&background=0d1117&border=008b8b&stroke=008b8b&ring=008b8b&fire=ff6b6b&currStreakNum=ffffff&sideNums=008b8b&currStreakLabel=ffffff&sideLabels=008b8b&dates=008b8b" alt="GitHub Streak" />
-</div>
 
 ---
 
@@ -60,6 +54,13 @@ Currently, I’m working as a **bioinformatics analyst** 💼 where I develop co
 </div>
 
 ---
+
+<!-- Stats en tiempo real con tema personalizado -->
+<div align="center">  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luis7orres&show_icons=true&theme=radical&include_all_commits=true&count_private=true&title_color=008b8b&icon_color=008b8b&text_color=ffffff&bg_color=0d1117&border_color=008b8b"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis7orres&layout=compact&langs_count=8&theme=radical&title_color=008b8b&text_color=ffffff&bg_color=0d1117&border_color=008b8b"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Luis7orres&theme=radical&background=0d1117&border=008b8b&stroke=008b8b&ring=008b8b&fire=ff6b6b&currStreakNum=ffffff&sideNums=008b8b&currStreakLabel=ffffff&sideLabels=008b8b&dates=008b8b" alt="GitHub Streak" />
+</div>
 
 <!-- Footer con animación -->
 <p align="center">
