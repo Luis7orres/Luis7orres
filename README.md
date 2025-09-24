@@ -6,7 +6,7 @@ class BioinformaticsAnalyst:
         self.role = "Bioinformatics Analyst"
         self.language_spoken = ["en_US", "es_ES", "gl_ES"]
         self.education = ["BSc Biology", "MSC Omics Data Analysis & Systems Biology"]
-        self.interests = ["Machine Learning", "Genomics", "Data Science"]
+        self.interests = ["Machine Learning", "Data Science", "Genomics", "Microbiology"]
         self.continuous_learning = ["Advanced Python Programming Courses", "Object Oriented Programming"]
     def say_hi(self):
         print("Thanks for dropping by!")
