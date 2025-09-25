@@ -3,7 +3,7 @@
 class BioinformaticsAnalyst:
     def __init__(self):
         self.name = "Luis Torres"
-        self.role = "Bioinformatics Analyst"
+        self.role = "Bioinformatics Analyst & PhD student"
         self.language_spoken = ["en_US", "es_ES", "gl_ES"]
         self.education = ["BSc Biology", "MSC Omics Data Analysis & Systems Biology"]
         self.interests = ["Machine Learning", "Data Science", "Genomics", "Microbiology"]
