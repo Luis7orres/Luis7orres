@@ -1,18 +1,8 @@
 # 🧬 **About Me**
-```python
-class BioinformaticsAnalyst:
-    def __init__(self):
-        self.name = "Luis Torres"
-        self.role = "Bioinformatics Analyst & PhD student"
-        self.language_spoken = ["en_US", "es_ES", "gl_ES"]
-        self.education = ["BSc Biology", "MSC Omics Data Analysis & Systems Biology"]
-        self.interests = ["Machine Learning", "Data Science", "Genomics", "Microbiology"]
-        self.continuous_learning = ["Advanced Python Programming Courses", "Object Oriented Programming"]
-    def say_hi(self):
-        print("Thanks for dropping by!")
-me = BioinformaticsAnalyst()
-me.say_hi()
-```
+
+<img width="1989" height="451" alt="Sin nombre" src="https://github.com/user-attachments/assets/f8d852c9-389d-4577-87c7-168a5f368174" />
+
+
 ---
 
 ## 💻 **Tech Stack**
